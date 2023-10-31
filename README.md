@@ -1,5 +1,4 @@
 
-
 # Task Scheduler Performance Analyzer Tool
 
 This is a Task Scheduler Performance Analyzer Tool developed in C++ to evaluate and compare various task scheduling strategies based on their execution times.
